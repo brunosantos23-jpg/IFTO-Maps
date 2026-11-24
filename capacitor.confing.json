@@ -1,0 +1,8 @@
+{
+"appId": "com.iftomaps.system",
+"appName": "IFTO-Maps",
+"webDir": "www",
+"server": {
+"iosScheme": "https"
+}
+}
