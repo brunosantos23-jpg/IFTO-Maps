@@ -1,17 +1,13 @@
 
-Bruno.wl7
-08:36 (há 1 minuto)
-para mim
-
 {
-"name": "IFTO-Maps",
-"version": "1.0.0",
-"description": "IFTO-Maps Development System",
-"dependencies": {
-"@capacitor/core": "^6.0.0",
-"@capacitor/ios": "^6.0.0"
-},
-"devDependencies": {
-"@capacitor/cli": "^6.0.0"
-}
+  "name": "mapas-ifto",
+  "version": "1.0.0",
+  "description": "Sistema de Desenvolvimento de Mapas IFTO",
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/ios": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
 }
